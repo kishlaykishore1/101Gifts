@@ -1,0 +1,70 @@
+
+import UIKit
+
+class Messages {
+    // MARK: - Alert Messages
+    // Text
+    static let txtAlert = "Avertissement!"
+    static let txtSignOut = "Se déconnecter "
+    static let txtDeleteAccount = "Supprimer mon compte"
+    static let txtYes = "Oui"
+    static let txtNo = "Non"
+    static let txtReportaBug = "Signaler un bug"
+    static let txtSend = "Envoyer"
+    static let txtConfirm = "Confirmer"
+    static let txtPleaseEnterBugReason = "Détails de votre rapport..."
+    static let txtPleaseEnterCourceReason = "Rasion de l’annulation"
+    static let txtPleaseEnterTheRaceDetail = "S'il vous plaît entrer la raison du rapport"
+    static let txtPleaseEnterTheProblemDetail = "S'il vous plaît entrer la raison du problème"
+    static let txtVideoGallery = "Video gallery"
+    // Login VC
+    static let msgAlert = "Alert!"
+    static let txtAppleSignInMes = "Apple signIn supports iOS 13 or higher versions, please upgrade your iphone or select other login option."
+    static let txtDissmiss = "Dismiss"
+    //Registration
+    static let emptyName = "Please Enter your Name"
+    static let emptyMobile = "Please Enter your mobile number."
+    static let emptyFirstName = "Enter your First Name"
+    static let emptyLastName = "Enter your Last Name"
+    static let emptyEmail = "Enter your email address"
+    static let validMobile = "Please enter valid phone no"
+    static let validEmailAddress = "Please enter valid email"
+    static let profileEmpty = "Please select your profile picture"
+    static let emptyAddress = "Please select your Address"
+    static let validPhoneOrCountryCode = "Please enter valid phone no or contry code".localized
+    static let txtPPNewsFeed = "Privacy policy"
+    static let txtTitle = "Privacy Policy"
+    static let validPhone = "Please enter valid phone no".localized
+    static let emptyComment = "Please add your comment !"
+    static let passwordDidntMatched = "Password Didnt Matched"
+    //-----------------------------------------------------------------//
+    // MARK: - 101 Gifts project
+    static let txtPleaseEnter = "Please Enter Your Text"
+    static let FullNameAlert = "Full Name"
+    static let FullNamePlaceHolderAlert = "Full Name"
+    static let FullNameMsgAlert = "Enter Full Name"
+    static let EmailAlert = "Email Address"
+    static let EmailPlaceHolderAlert = "Email Address"
+    static let EmailNameMsgAlert = "Enter Email Address"
+    static let PhoneAlert = "Phone Number"
+    static let PhonePlaceHolderAlert = "Phone Number"
+    static let PhoneMsgAlert = "Enter Phone Number"
+    static let AddressAlert = "Address"
+    static let AddressPlaceHolderAlert = "Address"
+    static let AddressMsgAlert = "Enter Address"
+    static let ActionSheetMale = "Male"
+    static let ActionSheetFemale = "Female"
+    static let ActionSheetCancel = "Cancel"
+    static let ActionSheetEnglish = "English"
+    static let ActionSheetRussian = "Russian"
+    static let photoMassage = "Select an option to add an image"
+    static let txtCamera = "Camera"
+    static let txtCancel = "Cancel"
+    static let txtGallery = "Image gallery"
+    static let txtCameraFind = "Camera Not Found"
+    static let ProfileNotUpdate = "Profile Not Updated"
+    static let emptyPassword = "Please Enter your password"
+    static let emptyNewPassword = "Please enter new password"
+    static let emptyRePassword = "Please enter re-password"
+    static let emptyCurrentPassword = "Please enter current password"
+}

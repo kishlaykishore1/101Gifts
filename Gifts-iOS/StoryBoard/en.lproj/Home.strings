@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "John Williams Doe"; ObjectID = "2Vo-Rw-9bd"; */
+"2Vo-Rw-9bd.text" = "John Williams Doe";
+
+/* Class = "UIButton"; normalTitle = "ADD NEW PRODUCT"; ObjectID = "5XQ-J9-6Na"; */
+"5XQ-J9-6Na.normalTitle" = "ADD NEW PRODUCT";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9nz-oI-KkO"; */
+"9nz-oI-KkO.text" = "Label";
+
+/* Class = "UILabel"; text = "Clothes"; ObjectID = "IpP-fv-7Yq"; */
+"IpP-fv-7Yq.text" = "Clothes";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "J03-PE-Mv5"; */
+"J03-PE-Mv5.text" = "Logout";
+
+/* Class = "UILabel"; text = "Select a category"; ObjectID = "Z4A-4X-381"; */
+"Z4A-4X-381.text" = "Select a category";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "nPG-JM-wR2"; */
+"nPG-JM-wR2.placeholder" = "Search";
+
+/* Class = "UILabel"; text = "Russia"; ObjectID = "ybf-8G-40D"; */
+"ybf-8G-40D.text" = "Russia";
